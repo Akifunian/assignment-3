@@ -16,7 +16,8 @@ by
 6. Create a simple 2x2 rubik cube application that allows the user to rotate the faces of a rubik cube. The code given doesn't work. You may have to read the code and complete some functions and add buttons.
 7. Make sure to only submit your /lib folder and modify the readme to describe what was done. You must also include your name and matric ID in this readme file.
 
-What was done
+What was done:
+
 1.Added Missing Faces:
 Included a Back face in the rendering and logic.
 Ensured all six faces (Front, Back, Left, Right, Top, Bottom) are displayed correctly.
